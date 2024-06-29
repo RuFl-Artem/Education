@@ -6,6 +6,11 @@ public class Main {
         System.out.println("Hello world! " + x);
         //из курсового
         System.out.println("Случайное число от 0 до 1: " + Math.random());
-
+        //test print + if
+        for (int i = 1; i <= 4; i++) {
+            if (i == 4) {
+                System.out.println("Hello world is if = " + i);
+            }
+        }
     }
 }
