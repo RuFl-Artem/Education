@@ -1,4 +1,7 @@
 ignor.txt
 Education_AT/.idea/
 Education_AT/out/
-/ignor --папка
+access-log-parser/out/
+access-log-parser/*.iml
+access-log-parser/.idea/
+/ignor
